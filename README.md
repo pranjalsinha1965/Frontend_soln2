@@ -16,3 +16,8 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 ### `npm run build` fails to minify
+
+submitted by 
+Pranjal Sinha
+2029166
+CSCE-01
