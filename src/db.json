@@ -1,0 +1,21 @@
+{
+    "trains": [
+      {
+        "trainNumber": "2344",
+        "trainName": "Chennai Exp",
+        "departureTime": { "Hours": 21, "Minutes": 35, "Seconds": 0 },
+        "seatsAvailable": { "sleeper": 3, "AC": 1 },
+        "price": { "sleeper": 2, "AC": 5 },
+        "delayedBy": 15
+      },
+      {
+        "trainNumber": "2341",
+        "trainName": "Hyderabad Exp",
+        "departureTime": { "Hours": 23, "Minutes": 55, "Seconds": 0 },
+        "seatsAvailable": { "sleeper": 6, "AC": 7 },
+        "price": { "sleeper": 554, "AC": 1854 },
+        "delayedBy": 5
+      }
+    ]
+  }
+  
